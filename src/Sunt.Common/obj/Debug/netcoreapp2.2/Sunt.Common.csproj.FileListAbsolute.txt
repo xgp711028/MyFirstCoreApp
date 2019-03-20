@@ -1,0 +1,17 @@
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.deps.json
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.pdb
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.csprojAssemblyReference.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.csproj.CoreCompileInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.AssemblyInfoInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.AssemblyInfo.cs
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.pdb
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.deps.json
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.dll
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\bin\Debug\netcoreapp2.2\Sunt.Common.pdb
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.csproj.CoreCompileInputs.cache
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.AssemblyInfoInputs.cache
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.AssemblyInfo.cs
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.dll
+D:\GitHubCodes\MyFirstCoreApp\src\Sunt.Common\obj\Debug\netcoreapp2.2\Sunt.Common.pdb

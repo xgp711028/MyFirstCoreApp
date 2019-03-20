@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>Sunt.Hsc.Application</AssemblyName>
+    <RootNamespace>Sunt.Hsc.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sunt.Hsc.Core\Sunt.Hsc.Core.csproj" />
+  </ItemGroup>
+
+</Project>

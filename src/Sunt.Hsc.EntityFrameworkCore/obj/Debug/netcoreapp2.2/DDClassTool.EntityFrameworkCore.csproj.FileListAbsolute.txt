@@ -1,0 +1,9 @@
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\bin\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.deps.json
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\bin\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\bin\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.pdb
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\src\DDClassTool.EntityFrameworkCore\obj\Debug\netcoreapp2.2\DDClassTool.EntityFrameworkCore.pdb

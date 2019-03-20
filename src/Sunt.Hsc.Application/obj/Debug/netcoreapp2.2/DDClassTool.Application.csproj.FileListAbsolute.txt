@@ -1,0 +1,9 @@
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\bin\Debug\netcoreapp2.2\DDClassTool.Application.deps.json
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\bin\Debug\netcoreapp2.2\DDClassTool.Application.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\bin\Debug\netcoreapp2.2\DDClassTool.Application.pdb
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.csprojAssemblyReference.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.csproj.CoreCompileInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.AssemblyInfoInputs.cache
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.AssemblyInfo.cs
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.dll
+C:\Users\74100\source\repos\Sunt.Hsc_v2.0\DDClassTool.Application\obj\Debug\netcoreapp2.2\DDClassTool.Application.pdb
